@@ -8,6 +8,5 @@ terraform {
     }
   }
 }
-resource "random_pet" "vpc" {
-  
-}
+resource "random_pet" "vpc" {}
+resource "random_pet" "vpc" {}
